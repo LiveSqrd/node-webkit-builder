@@ -1,5 +1,5 @@
 {
-  "name": "node-webkit-builder",
+  "name": "@lsq/node-webkit-builder",
   "version": "1.0.10",
   "description": "node-webkit-builder",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mllrsohn/node-webkit-builder.git"
+    "url": "git://github.com/LiveSqrd/node-webkit-builder.git"
   },
   "bin": {
     "nwbuild": "./bin/nwbuild"
